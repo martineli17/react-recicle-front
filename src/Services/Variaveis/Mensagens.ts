@@ -1,0 +1,1 @@
+export const OcorreuUmErro = "Ocorreu um erro!";
